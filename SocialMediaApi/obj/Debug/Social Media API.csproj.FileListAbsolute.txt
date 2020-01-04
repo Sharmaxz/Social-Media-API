@@ -1,0 +1,415 @@
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\Social Media API.dll.config
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\Social Media API.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\Social Media API.pdb
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\csc.exe
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\csc.exe.config
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\csc.rsp
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\csi.exe
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\csi.exe.config
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\csi.rsp
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.AppContext.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Console.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\vbc.exe
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\vbc.exe.config
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\vbc.rsp
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\Antlr3.Runtime.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\EntityFramework.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\EntityFramework.SqlServer.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\Newtonsoft.Json.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Net.Http.Formatting.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.Helpers.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.Http.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.Http.WebHost.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.Mvc.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.Optimization.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.Razor.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.WebPages.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\WebGrease.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\EntityFramework.xml
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\EntityFramework.SqlServer.xml
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\Newtonsoft.Json.xml
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Net.Http.Formatting.xml
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.Helpers.xml
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.Http.xml
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.Http.WebHost.xml
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.Mvc.xml
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.Optimization.xml
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.Razor.xml
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.WebPages.xml
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\Antlr3.Runtime.pdb
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\obj\Debug\Social Media API.csproj.CoreCompileInputs.cache
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\obj\Debug\Social Media API.csproj.CopyComplete
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\obj\Debug\Social Media API.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\obj\Debug\Social Media API.pdb
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.Cors.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.Http.Cors.dll
+C:\Users\yuri\Desktop\SocialMedia2\SocialMediaApi\bin\System.Web.Http.Cors.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\Social Media API.dll.config
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\Social Media API.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\Social Media API.pdb
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\csc.exe
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\csc.exe.config
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\csc.rsp
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\csi.exe
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\csi.exe.config
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\csi.rsp
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.AppContext.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Console.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\vbc.exe
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\vbc.exe.config
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\vbc.rsp
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\Antlr3.Runtime.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\EntityFramework.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\Newtonsoft.Json.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.Cors.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.Helpers.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.Http.Cors.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.Http.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.Mvc.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.Optimization.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.Razor.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.WebPages.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\WebGrease.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\EntityFramework.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.Http.Cors.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\Newtonsoft.Json.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.Helpers.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.Http.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.Mvc.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.Optimization.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.Razor.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.WebPages.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\Antlr3.Runtime.pdb
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\obj\Debug\Social Media API.csprojAssemblyReference.cache
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\obj\Debug\Social Media API.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\obj\Debug\Social Media API.csproj.CopyComplete
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\obj\Debug\Social Media API.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMedia\SocialMediaApi\obj\Debug\Social Media API.pdb
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\Social Media API.dll.config
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\Social Media API.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\Social Media API.pdb
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\csc.exe
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\csc.exe.config
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\csc.rsp
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\csi.exe
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\csi.exe.config
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\csi.rsp
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.AppContext.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Console.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\vbc.exe
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\vbc.exe.config
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\vbc.rsp
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\Antlr3.Runtime.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\EntityFramework.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\Newtonsoft.Json.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.Cors.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.Helpers.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.Http.Cors.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.Http.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.Mvc.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.Optimization.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.Razor.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.WebPages.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\WebGrease.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\EntityFramework.xml
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.Http.Cors.xml
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\Newtonsoft.Json.xml
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.Helpers.xml
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.Http.xml
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.Mvc.xml
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.Optimization.xml
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.Razor.xml
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.WebPages.xml
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\Antlr3.Runtime.pdb
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\obj\Debug\Social Media API.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\obj\Debug\Social Media API.csproj.CopyComplete
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\obj\Debug\Social Media API.dll
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\obj\Debug\Social Media API.pdb
+C:\Users\Notebook\Desktop\Social Media\SocialMediaApi\obj\Debug\Social Media API.csprojAssemblyReference.cache
+C:\Users\yuri\Documents\GitHub\SocialMediaApi\obj\Debug\Social Media API.dll
+C:\Users\yuri\Documents\GitHub\SocialMediaApi\obj\Debug\Social Media API.pdb
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\Social Media API.dll.config
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\Social Media API.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\Social Media API.pdb
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\csc.exe
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\csc.exe.config
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\csc.rsp
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\csi.exe
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\csi.exe.config
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\csi.rsp
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.AppContext.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Console.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\vbc.exe
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\vbc.exe.config
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\vbc.rsp
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\Antlr3.Runtime.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\EntityFramework.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\Newtonsoft.Json.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\SixLabors.Core.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\SixLabors.ImageSharp.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Buffers.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Memory.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Numerics.Vectors.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.Cors.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.Helpers.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.Http.Cors.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.Http.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.Mvc.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.Optimization.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.Razor.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.WebPages.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\UnixTimestamp.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\WebGrease.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\EntityFramework.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\SixLabors.Core.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\SixLabors.ImageSharp.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Buffers.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Memory.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Numerics.Vectors.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.Http.Cors.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\Newtonsoft.Json.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.Helpers.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.Http.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.Mvc.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.Optimization.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.Razor.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.WebPages.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\Antlr3.Runtime.pdb
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\obj\Debug\SocialMediaApi.Migrations.SocialMediaDB_v8.resources
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\obj\Debug\SocialMediaApi.Migrations.SocialMediaDB_v9.resources
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\obj\Debug\Social Media API.csproj.GenerateResource.cache
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\obj\Debug\Social Media API.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\obj\Debug\Social Media API.csproj.CopyComplete
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\obj\Debug\Social Media API.dll
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\obj\Debug\Social Media API.pdb
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\obj\Debug\SocialMediaApi.Migrations.SocialMediaDB_v10.resources
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\obj\Debug\Social Media API.csprojAssemblyReference.cache
+C:\Users\Shadow\Desktop\SocialMedia\SocialMediaApi\obj\Debug\SocialMediaApi.Migrations.SocialMediaDBv11.resources
